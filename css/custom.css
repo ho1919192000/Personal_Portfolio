@@ -278,7 +278,7 @@
             margin-top: 2px;
         }
         .paddingBTN{
-            opacity: .9;
+            opacity: 1;
             width: 200px;
             margin-bottom: 5%;
             background: white;
@@ -287,7 +287,7 @@
             
         }
         .paddingBTN:hover{
-            opacity: 1;
+            opacity: .9;
             background: white;
             border: 4px solid white;
         }
