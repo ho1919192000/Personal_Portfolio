@@ -170,7 +170,7 @@
         .pageThree {
             background-image: url("https://images.unsplash.com/38/awhCbhLqRceCdjcPQUnn_IMG_0249.jpg?ixlib=rb-0.");
             background-size: cover;
-            height: 700px;
+            height: auto;
             padding-top: 6%;
         }
         
@@ -185,18 +185,18 @@
             background-color: white;
             border-color: white;
             color: #337ab7;
-            
         }
         
         .main-btn {
             font-size: 1.8em;
-                        margin-left: 1.5%;
+            margin-left: 1.5%;
             margin-right: 1.5%;
-}
-.main-btn:hover {
-	opacity: 0.9;
-    border-color: white;
-}
+        }
+        
+        .main-btn:hover {
+            opacity: 0.9;
+            border-color: white;
+        }
         
         .title {
             font-size: 4em;
@@ -254,9 +254,6 @@
         
         .btnList {
             margin-top: 1%;
-
-            
-
         }
         
         #githubIcon {
@@ -276,7 +273,7 @@
         }
         
         .blockThree {
-            margin-top: 10%;
+            margin-top: 5%;
             padding-left: 2%;
             padding-right: 2%;
         }
